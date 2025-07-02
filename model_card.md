@@ -1,26 +1,3 @@
----
-language:
-- en
-tags:
-- computer-vision
-- segmentation
-- few-shot-learning
-- zero-shot-learning
-- sam2
-- clip
-- pytorch
-license: apache-2.0
-datasets:
-- custom
-metrics:
-- iou
-- dice
-- precision
-- recall
-library_name: pytorch
-pipeline_tag: image-segmentation
----
-
 # Model Card for SAM 2 Few-Shot/Zero-Shot Segmentation
 
 ## Model Description
