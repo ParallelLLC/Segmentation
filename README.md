@@ -1,26 +1,3 @@
----
-language:
-- en
-tags:
-- computer-vision
-- segmentation
-- few-shot-learning
-- zero-shot-learning
-- sam2
-- clip
-- pytorch
-license: apache-2.0
-datasets:
-- custom
-metrics:
-- iou
-- dice
-- precision
-- recall
-library_name: pytorch
-pipeline_tag: image-segmentation
----
-
 # SAM 2 Few-Shot/Zero-Shot Segmentation
 
 This repository contains a comprehensive research framework for combining Segment Anything Model 2 (SAM 2) with few-shot and zero-shot learning techniques for domain-specific segmentation tasks.
